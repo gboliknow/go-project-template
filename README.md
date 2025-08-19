@@ -10,7 +10,7 @@ A clean and minimal starter template for new Go projects. This template provides
 1. **Create a new project from this template**  
    Click **"Use this template"** on GitHub, or run with GitHub CLI:  
    ```bash
-   gh repo create my-new-project --template=username/go-project-template
+   gh repo create my-new-project --template=gboliknow/go-project-template
 ````
 
 2. **Initialize your Go module**
