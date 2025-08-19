@@ -53,7 +53,4 @@ test/           # Integration/e2e tests
 * Set up logging, routing, or database integration depending on your project
 * Start coding your business logic inside `internal/`
 
-```
 
-Do you also want me to give you a ready-to-copy **`.gitignore`** for this template, so it’s clean from the start?
-```
